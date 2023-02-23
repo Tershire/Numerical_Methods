@@ -16,3 +16,10 @@ Some topics introduced are...
 - Runge-Kutta method
 - Shooting method
 
+Here I present 2 codes with supplemtary media
+- cubic_splines.m
+  with a video demonstrating the KSP run and code result:
+  https://youtu.be/9JFS73hUJsE
+
+- ConicalFlow.m
+  with a report based on the code
